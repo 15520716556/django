@@ -1,9 +1,0 @@
-requirements   	要求
-goods			商品
-trade			贸易、交易
-syntaxError		语法错误
-invalid			无效的
-define			定义
-character		字符
-file			文件
-directory		目录

@@ -1,5 +1,0 @@
-pip freeze > requirements.txt   将项目的依赖包输出到指定的文件中
-pip install -r requirements.txt  安装requirements中的依赖包
-
-升级pip依赖包
-python -m pip install --upgrade pip
